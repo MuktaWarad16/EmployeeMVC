@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Employee2MVC\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+C:\Users\Hp\source\repos\Employee2MVC\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Hp\source\repos\Employee2MVC\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Hp\source\repos\Employee2MVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Employee2MVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Employee2MVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Employee2MVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Employee2MVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.sourcelink.json
+C:\Users\Hp\source\repos\Employee2MVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Hp\source\repos\Employee2MVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
