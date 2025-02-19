@@ -1,0 +1,9 @@
+﻿.row {
+    background-image: url("https://cdn.pixabay.com/photo/2021/10/30/20/11/office-6755544_640.png");
+    justify-content: center;
+    align-items: center;
+    background-color: lightsteelblue;
+    background-size: contain;
+    border:double;
+    text-decoration-color:initial;
+}
